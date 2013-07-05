@@ -1,3 +1,6 @@
+scriptDownloadFreeBoxV2
+=====================
+
 SHELL> Un petit script permettant de lancer à distance, un téléchargement sur sa FreeBox v6 (firmware 2.0.1). Conçu pour fonctionner avec la nouvelle api FreeboxOS
 
 Versions des outils utilisés : 
@@ -13,5 +16,6 @@ Afin de récupérer les informations ci dessous, consulter la documentation Free
 - app_id="votre app id" #Valeur indiqué lors de la première authentification en local
 - app_token="votre app token" #Valeur retourné par la freebox lors de la première authentification en local
 
-Utilisation : "bash scriptDownloadFreeBoxV2 <lien [HTTP]|[FTP]|[HTTPS]>"
+Utilisation : "bash scriptDownloadFreeBoxV2 \<lien [HTTP]|[FTP]|[HTTPS]>"
 
+=====================
